@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 AI
+=======
+Aritz Arrieta 
+Aritz Arrieta 2
+Aritz Arrieta 3
+>>>>>>> a335b2d7db2595f958c814dd9125e1f89d2cdaac
